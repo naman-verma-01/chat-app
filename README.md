@@ -4,4 +4,4 @@ A basic Heroku/Flask Chat App
 https://basic-chatting.herokuapp.com/
 
 
-(UNDERDEVELOPMENT)
+(UNDER-DEVELOPMENT)
