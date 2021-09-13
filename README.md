@@ -1,4 +1,4 @@
-# heroku_chatting app
+# Heroku Chatting app
 A basic Heroku/Flask Chat App
 
 https://basic-chatting.herokuapp.com/
